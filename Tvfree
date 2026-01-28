@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 catchup-days="14" catchup-type="flussonic" tvg-id="Fast Sports" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/fastsports.png",FastSports [AM]
+http://cdn.vivamax.pro/FastSports/index.m3u8?token=45ac1d95a3cb
