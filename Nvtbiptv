@@ -1,0 +1,10 @@
+#EXTM3U
+http://s06.wsbof.com:8090/s/1d392b2b/fastsports-am-hd.m3u8
+#EXTINF:0 group-title="Armenia" tvg-id="fastsports1-am-hd" tvg-logo="http://static.g-cdn.app/streams/fastsports1-am-hd.png" tvg-rec="7",FastSports 1 HD
+#EXTGRP:Armenia
+http://s06.wsbof.com:8090/s/1d392b2b/fastsports1-am-hd.m3u8
+#EXTINF:0 group-title="Armenia" tvg-id="fastsports2-am-hd" tvg-logo="http://static.g-cdn.app/streams/fastsports2-am-hd.png" tvg-rec="7",FastSports 2 HD
+#EXTGRP:Armenia
+http://s06.wsbof.com:8090/s/1d392b2b/fastsports2-am-hd.m3u8
+#EXTINF:0 group-title="Armenia" tvg-id="comedy-am" tvg-logo="http://static.g-cdn.app/streams/comedy-am.png" tvg-rec="7",Comedy
+#EXTGRP:Armenia
